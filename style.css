@@ -708,12 +708,6 @@ a {
         box-sizing: border-box;
     }
 
-    .contacts {
-        flex-direction: column;
-        gap: 40px;
-        padding: 0 20px;
-    }
-
     .location_image,
     .all_contact {
         width: 100%;
